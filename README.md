@@ -23,7 +23,7 @@
 ![Huawei Nova 5 Pro](https://img.shields.io/badge/Huawei%20Nova%205%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 
 #### Router / Band
-[![NETGEAR](https://img.shields.io/badge/NETGEAR%206300%20V2-00BBFF?style=flat-square&logo=Windows&logoColor=000000&labelColor=00BBFF)](https://www.netgear.com/support/product/R6300v2.aspx)
+[![NETGEAR](https://img.shields.io/badge/NETGEAR%206300%20V2-FFFFFF?style=flat-square&labelColor=000000)](https://www.netgear.com/support/product/R6300v2.aspx)
 
 ### 💰 Buy me a coffee or MiXue Bingcheng
 * [爱发电](https://afdian.net/@qkivan)
