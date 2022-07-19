@@ -24,8 +24,9 @@
 
 #### Router / Band
 [![NETGEAR](https://img.shields.io/badge/NETGEAR%206300%20V2-000000?style=flat-square&labelColor=000000)](https://www.netgear.com/support/product/R6300v2.aspx)
+[![NETGEAR](https://img.shields.io/badge/NETGEAR%206300%20V2-000000?style=flat-square&labelColor=000000)](https://www.netgear.com/support/product/R6300v2.aspx)
 
-### 💰 Buy me a coffee or MiXue Bingcheng
+### 💰 Buy me a coffee 
 * [爱发电](https://afdian.net/@qkivan)
 * [QKIvan's blog](https://qkivan.ink)
 
