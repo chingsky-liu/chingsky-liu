@@ -20,8 +20,8 @@
 
 #### Pad / Phones
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redmik20pro)
-[![iPad Pro 21](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro//)
 [![Redmi K30S Ultra](https://img.shields.io/badge/Redmi%20K30S%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/redmik30s)
+[![iPad Pro 21](https://img.shields.io/badge/iPad%20Pro%202021-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ipad-pro//)
 
 #### Router / Band
 [![NETGEAR](https://img.shields.io/badge/NETGEAR%206300%20V2-000000?style=flat-square&labelColor=000000)](https://www.netgear.com/support/product/R6300v2.aspx)
